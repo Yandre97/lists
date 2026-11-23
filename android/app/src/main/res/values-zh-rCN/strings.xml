@@ -202,6 +202,9 @@
     <string name="every_n_months">每 %1$s 个月</string>
     <string name="every_n_years">每 %1$s 年</string>
     <string name="base_on_monthday">%1$s，%2$s 日</string>
+    <string name="base_on_weekday">%1$s%2$s%3$s</string>
+    <string name="base_on_weekdays">%1$s：%2$s</string>
+    <string name="weekday_separator">、</string>
     <string name="after_completion">，从完成日算起</string>
     <string name="n_left">，还剩 %1$s 次</string>
     <string name="until_suffix">，直到 %1$s</string>
